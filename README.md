@@ -16,4 +16,4 @@
 
 #### Contact Information:
 - How to reach me: circeroserussell `<at>` gmail.com
-- Connect with me on [LinkedIn](www.linkedin.com/in/circe-rose)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/circe-rose/)!
