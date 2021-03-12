@@ -1,16 +1,18 @@
-### Hi there 👋
+![logo](https://user-images.githubusercontent.com/73668393/110954257-49773380-8316-11eb-9f6e-40b0bdc16022.png)
 
-<!--
-**circerose-web/circerose-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### Hi there! My name is Circe and I am a web developer located in Indiana.I am constantly looking for ways to improve my skills as a developer and my eye for design.
+###### Pronouns: She/Her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Student at Eleven Fifty Academy
+* Currently working on certifications with Interaction Design Foundation
+* Languages:
+  * HTML
+  * CSS
+  * JavaScript
+  * React
+  
+
+#### Contact Information:
+- How to reach me: circeroserussell `<at>` gmail.com
+- Connect with me on [LinkedIn](www.linkedin.com/in/circe-rose)
